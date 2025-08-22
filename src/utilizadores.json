@@ -1,0 +1,40 @@
+{
+    "listaUtilizadores": [
+        {
+            "Name": "admin",
+            "password": "123",
+            "email": "admin@gmail.com",
+            "papel": "administrador"
+        },
+        {
+            "Name": "Carlos Manuel",
+            "password": "321",
+            "email": "carlos_p@gmail.com",
+            "papel": "farmaceutico"
+        },
+        {
+            "Name": "Maria Madalena",
+            "password": "321",
+            "email": "freitas_maria@gmail.com",
+            "papel": "farmaceutico"
+        },
+        {
+            "Name": "Gustavo Ribeiro",
+            "password": "321",
+            "email": "ribeirinho1995@gmail.com",
+            "papel": "industria"
+        },
+        {
+            "Name": "Fernando Mendes",
+            "password": "321",
+            "email": "fe_mendes@gmail.com",
+            "papel": "industria"
+        },
+        {
+            "Name": "Paulo Cardozo",
+            "password": "321",
+            "email": "aaa",
+            "papel": "farmaceutico"
+        }
+    ]
+}
